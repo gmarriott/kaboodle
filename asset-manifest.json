@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/kaboodle/static/css/main.f735b044.css",
+    "main.js": "/kaboodle/static/js/main.79a3cf7d.js",
+    "static/js/787.cc099bb4.chunk.js": "/kaboodle/static/js/787.cc099bb4.chunk.js",
+    "static/media/BrandonGrotesque-Medium.ttf": "/kaboodle/static/media/BrandonGrotesque-Medium.d63de10c98fa56ec611a.ttf",
+    "static/media/BrandonGrotesque-Regular.ttf": "/kaboodle/static/media/BrandonGrotesque-Regular.135ec5ef3b44e1785fa4.ttf",
+    "static/media/BrandonGrotesque-Black.ttf": "/kaboodle/static/media/BrandonGrotesque-Black.71e869dcfbe549a3602d.ttf",
+    "static/media/BrandonGrotesque-Bold.ttf": "/kaboodle/static/media/BrandonGrotesque-Bold.82d02c69fef35bfcb3b2.ttf",
+    "static/media/BrandonGrotesque-RegularItalic.ttf": "/kaboodle/static/media/BrandonGrotesque-RegularItalic.0b8ac7cb3025fba9a5f6.ttf",
+    "static/media/BrandonGrotesque-Medium.woff": "/kaboodle/static/media/BrandonGrotesque-Medium.4629531ed02b00f70342.woff",
+    "static/media/BrandonGrotesque-Bold.woff": "/kaboodle/static/media/BrandonGrotesque-Bold.870c0c41bfda7c657147.woff",
+    "static/media/BrandonGrotesque-Black.woff": "/kaboodle/static/media/BrandonGrotesque-Black.7cfc1a090d7f350c31b2.woff",
+    "static/media/BrandonGrotesque-Regular.woff": "/kaboodle/static/media/BrandonGrotesque-Regular.feb99ef87c94f69ba387.woff",
+    "static/media/BrandonGrotesque-RegularItalic.woff": "/kaboodle/static/media/BrandonGrotesque-RegularItalic.762f1063323c247e337b.woff",
+    "static/media/BrandonGrotesque-Medium.woff2": "/kaboodle/static/media/BrandonGrotesque-Medium.910d5a4f448902e5efa2.woff2",
+    "static/media/BrandonGrotesque-Bold.woff2": "/kaboodle/static/media/BrandonGrotesque-Bold.a05097efc593782ccb09.woff2",
+    "static/media/BrandonGrotesque-Black.woff2": "/kaboodle/static/media/BrandonGrotesque-Black.564b5758b2553e3093cf.woff2",
+    "static/media/BrandonGrotesque-Regular.woff2": "/kaboodle/static/media/BrandonGrotesque-Regular.591bd2b98eed5cdcc998.woff2",
+    "static/media/BrandonGrotesque-RegularItalic.woff2": "/kaboodle/static/media/BrandonGrotesque-RegularItalic.78a0e53160768207faf4.woff2",
+    "index.html": "/kaboodle/index.html",
+    "main.f735b044.css.map": "/kaboodle/static/css/main.f735b044.css.map",
+    "main.79a3cf7d.js.map": "/kaboodle/static/js/main.79a3cf7d.js.map",
+    "787.cc099bb4.chunk.js.map": "/kaboodle/static/js/787.cc099bb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f735b044.css",
+    "static/js/main.79a3cf7d.js"
+  ]
+}
