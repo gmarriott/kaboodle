@@ -1,3 +1,12 @@
+# Task Review 
+
+Initially I created a fresh react typescript app as the base for displaying the accommodation data. I reorganised the structure so a header and body were my two initial components. From there I could map out which components were needed to create a list view for the available accommodations. I created these components spending time making sure my typescript interfaces were correct to what the json file types would return. After this I could pass the list of accommodations down into my list component and render them on the page. I spent time in the stylesheets making sure desktop and mobile styles were applied correctly. After this I worked on the sort which I decided would be a dropdown of the accommodation types. I wrote a function and a variable which was stored in a context and I could use throughout the react app. 
+
+# Further improvements
+
+If I had more time I would have further improved the app by adding further filters i.e a search input which filtered by names of the accommodation. I would also add further tests as I only had time to briefly test my accommodationItem component. I would also go back and integrate Storybook into the app which would allow me to write ui stories for my created components.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
